@@ -1,14 +1,18 @@
-<!DOCTYPE html><html lang="en"><meta charset="utf-8"><script>
+<!DOCTYPE html><html lang="en"><meta charset="utf-8">
+<h1>Project List</h1><body><script>
 var Get=function(url) {
 	var http = new XMLHttpRequest();
 	http.open("GET", "https://neotim.github.io/"+url+".js", false);
+	http.send();
 	if (http.readyState == 4 && http.status == 200) {
 		return http.responseText;
 	} else {
 		return "";
 	}
 };
-
+	function Add(e) {
+		document.body.innerHTML+=e;
+	};
 console.log(Get("sum"));
 
 </script></html>
