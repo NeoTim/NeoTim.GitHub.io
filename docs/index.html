@@ -13,6 +13,7 @@ var Get=function(url) {
 	function Add(e) {
 		document.body.innerHTML+=e;
 	};
-Add("<h3>Total:"+Get("sum")+", 2003-"+(new Date).getFullYear()+"</h3>");
+var sum=Get("sum");
+Add("<h3>Total:"+sum+", 2003-"+(new Date).getFullYear()+"</h3>");
 
 </script></html>
