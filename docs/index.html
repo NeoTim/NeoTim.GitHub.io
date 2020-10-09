@@ -1,5 +1,5 @@
 <!DOCTYPE html><html lang="en"><meta charset="utf-8">
-<h1>Project List</h1><body><script>
+<body align=center><h1>Project List</h1><script>
 var Get=function(url) {
 	var http = new XMLHttpRequest();
 	http.open("GET", "https://neotim.github.io/"+url+".js", false);
@@ -13,6 +13,6 @@ var Get=function(url) {
 	function Add(e) {
 		document.body.innerHTML+=e;
 	};
-console.log(Get("sum"));
+Add("<h3>"+Get("sum")+"</h3>");
 
 </script></html>
