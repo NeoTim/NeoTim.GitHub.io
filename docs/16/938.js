@@ -1,0 +1,1 @@
+{"name":"landing page issues, I will talk with u to see what changes were made.","work":"t","_t":1561561334461,"_id":"0CMcCqmxOSfhyNXv","assigner":"Sevag","received":true,"end":1561561334461,"detail":"If PM delete product in Magento or change SKU, we have no way to delete it from Google. Because GoogleAPI do not give us its complete list.","ok":true}
