@@ -1,0 +1,1 @@
+{"name":"The phone on the switch works when plugged in a 5V power.","work":"t","_t":1581023321474,"_id":"Qrt1Se8ksZXnGkRY","assigner":"Jesus","ok":true}
