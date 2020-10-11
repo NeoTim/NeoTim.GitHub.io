@@ -1,0 +1,1 @@
+{"name":"would a filter work? like it filter keywords like \"money, girls, payment, sex, dating, win\" things like that? I think that would help alot to cut down on it. those tend to be all the biggest culprit of spam service providers","work":"t","_t":1600373160079,"_id":"Y1E52RIUVcRDXdbJ","assigner":"Slater","ok":true}
