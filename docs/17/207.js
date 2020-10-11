@@ -1,0 +1,1 @@
+{"name":"Changed VIEW function to a new view page to show data in WORD/PDF form and show all data input in the article. Also, wrap the text, so it is all viewable.","work":"t","_t":1587874443253,"_id":"JL7EwraflNeP8wBF","assigner":"Ben","ok":true}
