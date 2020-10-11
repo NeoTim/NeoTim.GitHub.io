@@ -1,0 +1,1 @@
+{"name":"modified the VIEW option in the Knowledge Base to look like the document u sent me. Exactly same formatting, easier to read and search. spaces, paragraph breaks, etc. And BOLD the titles of each section. Things like that.","work":"t","_t":1588530588368,"_id":"rpc5Rge60XFH8kNA","assigner":"Ben","ok":true}
