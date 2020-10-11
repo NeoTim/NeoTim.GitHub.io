@@ -1,0 +1,1 @@
+{"name":"object reference not set to an instance of an object","work":"t","_t":1561307769930,"_id":"80TWHCRUMQahjS1K","detail":"Convert.ToDouble(magentoList.Rows[i][12].ToString()","received":true,"ok":true,"end":1561421210846}
