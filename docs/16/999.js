@@ -1,0 +1,1 @@
+{"name":"what is Gtin?","work":"t","_t":1563358416421,"_id":"sG04nTAuzjeKq4Ke","assigner":"Wenwen","end":1563358416421,"received":true,"ok":true,"detail":"Gtin is UPC Code, must regexp '^[0-9]+$', Gtin(UPC Code) is mistake, Gtin must only number and length>4."}
