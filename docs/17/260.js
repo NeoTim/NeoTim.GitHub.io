@@ -1,0 +1,1 @@
+{"name":"开发Angular MongoDB例子，字段名字数量全部是动态的，做了算法效率优化，而且都保留了扩展接口，留了很多预定义了的变量以后可以扩展功能，","work":"t","_t":1598400597607,"_id":"puzHFeI8iiH6COtu","assigner":"Vincent","ok":true}
