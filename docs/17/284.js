@@ -1,1 +1,0 @@
-{"name":"can you please add these 3 columns?Created By, WO#:,Date.No need for DATE, we already have \"Submitted On\". also,a Work Order had a solution posted, but it did not send an automated e-mail to the employee saying there is a solution posted. Can you check this feature","work":true,"_t":1597169631956,"_id":"a18obBQUSop4jxUH"}
