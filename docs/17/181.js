@@ -1,0 +1,1 @@
+{"name":"Can you make the Knowledge Base pages populate a PDF template that we can VIEW or DOWNLOAD?For all 4 article types in the Knowledge Base","work":"t","_t":1582847641085,"_id":"F81y6LbVbQPMD0O6","assigner":"Ben","ok":true}
