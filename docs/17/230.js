@@ -1,0 +1,1 @@
+{"name":"BT.com and . Net . Google ad disappear again.  can you check and get the ads back","work":"t","_t":1594240344285,"_id":"Bc8EDQcSZzFtug5P","assigner":"Jason","end":1594240344285,"ok":true}
