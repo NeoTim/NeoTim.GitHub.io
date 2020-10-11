@@ -1,0 +1,1 @@
+{"name":"Attachment is the documentation for Insurance API from UPS.  Please take a look.   Provided from UPS:   X-IBM-Client-Id:7214999","work":"t","_t":1560448756391,"assigner":"Steve","received":true,"detail":"https://upscapi.ams1907.com/apis/list/quote/v1","ok":true,"end":1560460053546,"cell":true,"_id":"eG6a4gJ3519tEmz4"}
