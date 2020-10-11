@@ -1,0 +1,1 @@
+{"name":"2. Installation page removed ArticleType,Merchants,PublishDate  fields, also deleted from the database. also added a new field here to be automatically updated when a modification is made to the article.","work":"t","_t":1588980309952,"_id":"xMxNyqvDvalI8Q8B","assigner":"Ben","ok":true}
