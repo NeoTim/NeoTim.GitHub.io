@@ -1,0 +1,1 @@
+{"name":"Non-Metallic Enclosures 每天自动消失","work":"t","_t":1560983796597,"_id":"e8NMxhrOOD5GE9V6","assigner":"Jason","received":true,"detail":"分类产品消失是因为magento的index表出问题了。现在准备找到一个消失的，然后查是哪个字段没刷新，然后刷新后，看是否有什么动作会触发这个字段消失。然后修复那个字段","end":1560983796597,"ok":true,"alert":"1"}
