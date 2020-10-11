@@ -1,0 +1,1 @@
+{"name":"can you please secure Yt app and name in the Apple Store and Google Play? Jason wants us to reserve a spot for the app, so we can release it for Android and iOS after the site is built out.","work":"t","_t":1565643511387,"_id":"dOJf3Z2UzEx6g6vj","assigner":"Ben","received":true,"ok":true,"end":1570219172451}
