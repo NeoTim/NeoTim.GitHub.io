@@ -1,0 +1,1 @@
+{"name":"你記得stamps.com web service url，production 跟testing 的url 哪個是production?testing是这个 ：https://swsim.testing.stamps.com/swsim/swsimv90.asmx production是https://swsim.stamps.com/swsim/swsimv90.asmx","work":"t","_t":1597871314263,"_id":"gathvhOFVytCzTm5","assigner":"Vincent","ok":true}
