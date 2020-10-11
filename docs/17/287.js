@@ -1,0 +1,1 @@
+{"name":"is there any chance multi delete function can be added for providers. just to delete all the spam there all at once. rather than 1 by 1. if you can that would be really helpful on all tabs (WO, Providers,  Customers, KB, Classifieds)","work":true,"_t":1598395614658,"_id":"uTpFZmqcdZdrn9We","assigner":"Slater"}
