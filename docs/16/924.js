@@ -1,0 +1,1 @@
+{"name":"24145也推一下","work":"t","_t":1561403656855,"_id":"IJ6dJoyTZTNVXsEA","assigner":"Jason","detail":"select * from catalog_product_entity where tpin='350 '\n\nselect * from catalog_product_entity where entity_id=24145\n\n\nupdate catalog_product_entity set updated_at=now() where entity_id=24145","received":true,"ok":true,"end":1561403656855}
