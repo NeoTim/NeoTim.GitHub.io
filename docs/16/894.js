@@ -1,0 +1,1 @@
+{"name":"Set email for PM 6/12","work":"t","_t":1560370521022,"_id":"33WGUtytFQMO0RIV","assigner":"Vincent","date":1560322800000,"end":1560370521022,"ok":true,"detail":"put the pragram to root folder\n\ncd root \nstart mail.exe"}
