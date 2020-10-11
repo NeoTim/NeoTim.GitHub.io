@@ -1,0 +1,1 @@
+{"name":"Set the time of Google Shopping Last Synced On, even if Google Shopping Eligible does not meet the conditions.","work":"t","_t":1560818889309,"_id":"VX8Ija2AoYVo88d4","assigner":"Vincent","received":true,"ok":true,"end":1560818889309}
