@@ -1,0 +1,1 @@
+{"name":"can you export the data from Magento database directly","work":"t","_t":1565168408895,"_id":"YMC9WF2aQ7Y4lWv8","detail":"can you export the data from Magento database directly.   we can't receive the products list from google merchant center any more, can you help to fix it?\nto China PM Group","ok":true,"received":true,"end":1565168408895}
