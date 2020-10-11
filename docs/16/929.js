@@ -1,0 +1,1 @@
+{"name":"24029更改一下,然後看有沒有成功","work":"t","_t":1561442006349,"_id":"97C7qCHsPofKnTfF","assigner":"Vincent","detail":"update catalog_product_entity set updated_at=now() where tpin=''","received":true,"ok":true,"end":1561442006349}
