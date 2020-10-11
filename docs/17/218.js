@@ -1,0 +1,1 @@
+{"name":"3 Operation  page removed ArticleType,Merchants,PublishDate fields, also deleted from the database. also added a new field here to be automatically updated when a modification is made to the article.","work":"t","_t":1588980356156,"_id":"KEFDT1m5EaDcHeG8","assigner":"Ben","ok":true}
