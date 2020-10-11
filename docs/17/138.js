@@ -1,0 +1,1 @@
+{"name":"1, yes, WorkOrders/Edit.aspx is new file. 2, yes, I changed table WorkOrders and KnowledgeBase. added 9 fields: Category,ArticleType,Merchants,PublishDate,SKUs,PreSalesQuestion,ProductType,FrequentlyAskedQuestion,Content 3. this is new Login.aspx without default username and pwd","work":"t","_t":1576459949549,"_id":"7XTH5cmnKFNMw5uP","ok":true,"assigner":"Steve"}
