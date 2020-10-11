@@ -1,0 +1,1 @@
+{"name":"all bundle child items have inventory?","work":"t","_t":1557966350144,"_id":"FF6ua48kZKKqRTTW","end":1557966350144,"ok":true}
