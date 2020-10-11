@@ -1,0 +1,1 @@
+{"name":"We are almost ready to issue the production token and just need to verify the invoice API works.  Do you have an estimate of when you would be able to complete that so we can get the token out to you?","work":"t","_t":1562707705593,"_id":"yM6OswIwTQ762MQP","assigner":"Keith","ok":true,"received":true,"end":1562707705593}
