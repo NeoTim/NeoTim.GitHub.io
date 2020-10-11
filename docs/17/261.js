@@ -1,0 +1,1 @@
+{"name":"inventory上次server換一台後有一個功能沒辦法使用。upload image 到S3的時候會有問題，我覺得是不是server有甚麼security setup擋住了，同個server 也是 stamps.com API也沒辦法connect","work":"t","_t":1598843494114,"_id":"ITLyi8BshdG7YMnk","assigner":"Vincent","ok":true}
