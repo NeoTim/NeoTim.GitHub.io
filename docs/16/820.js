@@ -1,0 +1,1 @@
+{"name":"this is the list of weights we will be using for now. so distance to 3000 right?","work":"t","_t":1557200281136,"_id":"mSLEhvaosDllDQ1S","assigner":"Steve","end":1557200281136,"ok":true}

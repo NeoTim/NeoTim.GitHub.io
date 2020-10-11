@@ -1,0 +1,1 @@
+{"name":"can you check if Item '24248' is included in listing for Google Shopping. If not, can you get the reason why this is not included?","work":"t","_t":1558150945602,"_id":"Prip21dlievszcGS","assigner":"Steve","detail":"Because it's fulfilledBy != 137","end":1558150945602,"ok":true}

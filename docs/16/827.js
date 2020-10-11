@@ -1,0 +1,1 @@
+{"name":"Fix Bundler, select only one option product","work":"t","_t":1557530760097,"_id":"5Xp1KewwEpV0GYzm","detail":"select parent_product_id\nfrom catalog_product_bundle_selection\ngroup by parent_product_id, option_id\nhaving count(selection_id) > 1","end":1557530760097,"ok":true}

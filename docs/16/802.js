@@ -1,0 +1,1 @@
+{"name":"Not open in the browser window with Google OAuth2","work":"t","_t":1556682957126,"_id":"rE0sEmY2DCWjYimj","assigner":"Eric","end":1556682957126,"ok":true}

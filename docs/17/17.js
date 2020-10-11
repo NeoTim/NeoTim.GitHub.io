@@ -1,0 +1,1 @@
+{"name":"Ok, good. Jason wants yt to be an app. I can prototype the design, but only after we finish the website first. I checked the name it is says yt is available. How do we reserve that name for us on the app stores?","work":"t","_t":1564246637028,"_id":"m7xLHgw0efuMIZp3","assigner":"Ben","ok":true,"end":1570219169075}

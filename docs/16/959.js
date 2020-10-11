@@ -1,0 +1,1 @@
+{"name":"This orderId, SKU, UPC, Brand information populates correctly on TL, but not BT. It's not populating product names correctly either","work":"t","_t":1562105890541,"_id":"qU97q209x5qoKZI1","assigner":"Ben","ok":true,"received":true,"end":1562105890541,"detail":"public_html/system/modification/catalog/controller/product/product.php"}

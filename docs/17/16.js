@@ -1,0 +1,1 @@
+{"name":"What do we need to do to make an App? Jason and Vincent mentioned checking if the name is taken on the app store. Do you know how to do this?","work":"t","_t":1564246556528,"_id":"wAD08Elo1vTUhCJ2","assigner":"Ben","ok":true,"end":1570219168525}
