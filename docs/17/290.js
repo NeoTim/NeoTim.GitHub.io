@@ -1,0 +1,1 @@
+{"name":"You could compare it to an Amazon or Alibaba-type platform plus a lot more.  •\tRaised XX million in A-round funding to date, led by XX, YY and ZZZ through July 31, 2020","work":true,"_t":1600352191880,"_id":"RKaAwg5EYjYzyq1O","assigner":"Steve"}
