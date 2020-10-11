@@ -1,0 +1,1 @@
+{"name":"Generate BT excel, SELECT p.product_id, p.model,p.isbn, p.sku, p.location, p.price, p.weight, p.ean, p.image, p.status, p.quantity, p.date_modified, d.name FROM bt_product p INNER JOIN bt_product_description d ON p.product_id=d.product_id","work":"t","_t":1559260652237,"_id":"ldtLBjQUP65NryY7","end":1559260652237,"ok":true}
