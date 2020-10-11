@@ -1,0 +1,1 @@
+{"name":"magento标题里面的乘号都被替换成x了，但是google上面的仍旧是 ？， jason问我是什么原因，然后我也不知道啥情况。","work":"t","_t":1561079011073,"_id":"gMPggpGAXXTSA1zG","assigner":"Will","detail":"Please check the sync time of the Google’s items which still were “?”, Try find some computers to run the sync program.","ok":true,"received":true,"end":1561079011073}
