@@ -1,0 +1,1 @@
+{"name":"Delete 'GU','AP','MP','FM','MH','AS','VI','PR','AE','PW','AA' zipcodes","work":"t","_t":1557184321292,"_id":"bpQeXVSHjTOFlAnQ","detail":"SELECT a.ZipCode, a.city, a.state_id, a.DistanceFromCerritos\nFROM temp_zip a\nWHERE state_id not in ('GU','AP','MP','FM','MH','AS','VI','PR','AE','PW','AA')\nand a.lat is not null\nand a.lng is not null","end":1557184321292,"ok":true}
