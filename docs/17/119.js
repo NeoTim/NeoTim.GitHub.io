@@ -1,0 +1,1 @@
+{"name":"Service Provider Detail page is done. The Service Provider Detail page is the same as Customer Detail Page","work":"t","_t":1573784683532,"_id":"ZkYN8a7ju1pilPbv","ok":true,"received":true}
