@@ -1,0 +1,1 @@
+{"name":"ADD https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js . I need you guys to add this code right below the <head>. On BT Tools website.","work":"t","_t":1569519811840,"_id":"bNOQlqjbeC5Kuq15","assigner":"Sevag","received":true,"ok":true,"detail":"I had Tom add the script to BT back end for Google Adsense. They are now reviewing the site."}
