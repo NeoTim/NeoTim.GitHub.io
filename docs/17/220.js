@@ -1,0 +1,1 @@
+{"name":"5 Edit   page removed ArticleType,Merchants,PublishDate fields, also deleted from the database. also added a new field here to be automatically updated when a modification is made to the article.","work":"t","_t":1588980393737,"_id":"3Cnm1nSJHIbsFnh1","assigner":"Ben","ok":true}
