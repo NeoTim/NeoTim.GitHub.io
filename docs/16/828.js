@@ -1,0 +1,1 @@
+{"name":"shipping_tablerate , Select entity_id from catalog_product_entity where type=“bundle”","work":"t","_t":1557534102928,"_id":"LCp6SmfGgZrSip3H","assigner":"Will","end":1557534102928,"ok":true}
