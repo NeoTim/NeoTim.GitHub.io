@@ -33,7 +33,7 @@
 					if (a != "") {
 						a = JSON.parse(a);
 						if (!a.del) {
-							Add("<b>" + (new Date(a._t).toLocaleDateString()) + "</b> ");
+							if (a._t) Add("<b>" + (new Date(a._t).toLocaleDateString()) + "</b> ");
 							if (a.assigner) Add(a.assigner + ": ");
 							Add(a.name);
 							//if(a.work)Add(a.work + ":");
