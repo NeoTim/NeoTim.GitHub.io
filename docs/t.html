@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta charset="utf-8">
+<body>
+	<center>
+		<h1>Project Log</h1>
+		<script>
+			var Get = function(url, Next) {
+				var xhr = new XMLHttpRequest();
+				xhr.open("GET", "https://neotim.github.io/" + url + ".js", true);
+				xhr.send();
+				xhr.onload = function(e) {
+						if (xhr.status === 200) {
+							Next(xhr.responseText);
+						} else {
+							Next("");
+						}
+				};
+				xhr.onerror = function(e) {
+					console.error(xhr.statusText);
+				};
+			};
+			function Add(e) {
+				document.body.innerHTML += e;
+			};
+			Get("sum", function(sum) {
+				Add("<center><h3>Total:" + sum + ", 2003-" + (new Date).getFullYear() + "</h3>");
+				Load(sum);
+			});
+			function Load(sum) {
+				var n = Math.floor(sum / 1000) + "/" + (sum % 1000);
+				Get(n, function(a) {
+					if (a != "") {
+
+						a = JSON.parse(a);
+						if ((!a.del)&&(a.work==1&&a.work==true)) {
+							if (a._t) Add("<b>" + (new Date(a._t).toLocaleDateString()) + "</b> ");
+							if (a.assigner) Add(a.assigner + ": ");
+							Add(a.name);
+							//if(a.work)Add(a.work + ":");
+							if (a.git) Add(" <a href='https://github.com/NeoTim/" + a.git + "'>Git:" + a.git + "</a>");
+
+if (a.file) Add(" <a href='" + n + ".zip'>File:" + a.file + "</a>");
+							Add("<br><img src='" + n + ".png' onerror=\"this.style.display='none'\"><br>");
+						}
+						setTimeout(function(){Load(--sum)},100);
+					}
+				});
+			}
+		</script>
+</html>
