@@ -1,1 +1,1 @@
-{"name":"OrderProcess if ItemPackage has at least 1 record, only rate shop for packages assigned.  if EMPTY, rate shop for all packages.","id":17301,"work":1,"_t":1602797855762,"date":"Thu Oct 15 2020","time":"2020-10-15T21:37:38.880Z","priority":"3"}
+{"name":"OrderProcess if ItemPackage has at least 1 record, only rate shop for packages assigned.  if EMPTY, rate shop for all packages.","id":17301,"work":"2","_t":1602797855762,"date":"Thu Oct 15 2020","time":"2020-10-15T21:37:38.880Z","priority":"3"}
