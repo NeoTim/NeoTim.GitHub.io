@@ -38,7 +38,9 @@
 							Add(a.name);
 							//if(a.work)Add(a.work + ":");
 							if (a.git) Add(" <a href='https://github.com/NeoTim/" + a.git + "'>Git:" + a.git + "</a>");
-							Add("<img src='" + n + ".png' onerror=\"this.style.display='none'\"><br>");
+
+if (a.file) Add(" <a href='" + n + ".zip'>File:" + a.file + "</a>");
+							Add("<br><img src='" + n + ".png' onerror=\"this.style.display='none'\"><br>");
 						}
 						setTimeout(function(){Load(--sum)},100);
 					}
