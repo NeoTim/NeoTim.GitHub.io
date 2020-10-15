@@ -16,6 +16,9 @@ Automatic git Pull.
 Automatic Generate Commit Message.
 
 
+Realize database crud based on GitHub.
+Can use SQL statements (such as select, update, delete and insert) or NosSQL statements (such as find, remove, save, etc.) to operate GitHub, and it can automatically generate REST API.
+
 This repository URL https://neotim.github.io/
 Component URL: https://git.tml.ink/
 
@@ -24,4 +27,4 @@ Component URL: https://git.tml.ink/
 
 
 There are 17,300 projects in my Github (the latest total is: https://neotim.github.io/sum.js).
-Of these 2,300 are public projects and 15,000 are private projects.
+Of these 4,000 are public projects and 13,000 are private projects.
