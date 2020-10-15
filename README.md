@@ -6,9 +6,6 @@ https://github.com/NeoTim/NeoTim.GitHub.io/
 This repository is my Github develop automaticlly index log database.
 Because I do many projects by myself and I don’t bother to write documents. Unless cooperate with other people. So this project automatically monitors all github update logs, automatically indexes, and automatically generates API and JSON. Support six kinds of UI display, automatic survival work report, automatic docking with Jira (atlassian.net).
 
-
-
-
 Coordination of related components: https://github.com/NeoTim/AutoGit/
 Automatic git Commit and Push.
 Automatic git Pull.
