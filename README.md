@@ -1,6 +1,5 @@
-# NeoTim.GitHub.io
-Github automaticlly monitor and index log database
-
+# NeoTim.GitHub.io  
+Github database that can automatically monitor and index
 
 https://github.com/NeoTim/NeoTim.GitHub.io/
 
@@ -15,9 +14,8 @@ Automatic git Commit and Push.
 Automatic git Pull.
 Automatic Generate Commit Message.
 
-
-Realize database crud based on GitHub.
-Can use SQL statements (such as select, update, delete and insert) or NosSQL statements (such as find, remove, save, etc.) to operate GitHub, and it can automatically generate REST API.
+Realize database low level crud operations based on GitHub.
+Can use SQL statements (such as select, update, delete and insert) or NoSQL statements (such as find, remove, save, etc.) to operate GitHub, and it can automatically generate REST API.
 
 This repository URL https://neotim.github.io/
 Component URL: https://git.tml.ink/
