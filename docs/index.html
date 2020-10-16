@@ -42,7 +42,7 @@ img {max-height: 100px;}
 							if (a.url) Add(" <a href='" + a.url + "'>" + a.url + "</a> ");
 							if (a.git) Add(" Git:<a href='https://github.com/NeoTim/" + a.git + "'>" + a.git + "</a>");
 
-if (a.file) Add(" <a href='" + n + ".zip'>File:" + a.file + "</a>");
+if (a.file) Add(" File:<a href='" + n + ".zip'>" + a.file + "</a>");
 							Add("<br><a href='" + n + ".png'><img src='" + n + ".png' onerror=\"this.style.display='none'\"></a><br>");
 						}
 						setTimeout(function(){Load(--sum)},100);
