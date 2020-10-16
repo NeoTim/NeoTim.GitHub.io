@@ -11,7 +11,9 @@ Automatic git Commit and Push.
 Automatic git Pull.
 Automatic Generate Commit Message.
 
-This project changed the GitHub to a database. Realize database low level crud operations based on GitHub.
+This project Convert the GitHub to a database.
+Realize database low level crud operations based on GitHub.
+Convert git command line to SQL statement or NoSQL statement.
 Can use SQL statements (such as select, update, delete and insert) or NoSQL statements (such as find, remove, save, etc.) to operate GitHub, and it can automatically generate REST API.
 
 This repository URL https://neotim.github.io/
