@@ -39,7 +39,8 @@ img {max-height: 100px;}
 							if (a.assigner) Add(a.assigner + ": ");
 							Add(a.name);
 							//if(a.work)Add(a.work + ":");
-							if (a.git) Add(" <a href='https://github.com/NeoTim/" + a.git + "'>Git:" + a.git + "</a>");
+							if (a.url) Add(" <a href='" + a.url + "'>" + a.url + "</a> ");
+							if (a.git) Add(" Git:<a href='https://github.com/NeoTim/" + a.git + "'>" + a.git + "</a>");
 
 if (a.file) Add(" <a href='" + n + ".zip'>File:" + a.file + "</a>");
 							Add("<br><a href='" + n + ".png'><img src='" + n + ".png' onerror=\"this.style.display='none'\"></a><br>");
