@@ -1,1 +1,1 @@
-{"name":"部署在bt上的google adsense的代码是怎样的，我想起来google的源码是不能直接用的，我当时修改了部分设置交给Sevage的，能否把那部分源码给我看下","id":17304,"work":1,"_t":1602950253204,"assigner":"Will"}
+{"name":"部署在bt上的google adsense的代码是怎样的，我想起来google的源码是不能直接用的，我当时修改了部分设置交给Sevage的，能否把那部分源码给我看下","id":17304,"work":1,"_t":1602950253204,"assigner":"Will","end":1602950253204}
