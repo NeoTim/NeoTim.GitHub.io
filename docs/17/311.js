@@ -1,1 +1,1 @@
-{"name":"sync order  to Magento, then into NetSuite for Fulfillment.","id":17311,"work":1,"_t":1603738076093}
+{"name":"sync order  to Magento, then into NetSuite for Fulfillment.","id":17311,"work":1,"_t":1603565276093,"end":1603565276093}
