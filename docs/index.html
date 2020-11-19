@@ -9,7 +9,7 @@ img {max-height: 100px;}
 		<script>
 			var Get = function(url, Next) {
 				var xhr = new XMLHttpRequest();
-				xhr.open("GET", "https://neotim.github.io/" + url + ".js", true);
+				xhr.open("GET", "/" + url + ".js", true);
 				xhr.send();
 				xhr.onload = function(e) {
 						if (xhr.status === 200) {
