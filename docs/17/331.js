@@ -1,1 +1,1 @@
-{"name":"Hi Guys.  Jenny from accounting was asking if we can charge paypal for all AMEX transactions.  Will this be difficult to do?","id":17331,"work":"1","_t":1605920960336,"assigner":"Jenny","ok":true,"end":1605984523601}
+{"name":"Hi Guys.  Jenny from accounting was asking if we can charge paypal for all AMEX transactions.  Will this be difficult to do?","id":17331,"work":"1","_t":1605920960336,"assigner":"Jenny","ok":false,"end":1605984523601}
