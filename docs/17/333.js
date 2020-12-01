@@ -1,1 +1,1 @@
-{"name":"test3","id":17333,"work":1,"_t":1605988499047}
+{"name":"tech2_port4242 (copy) - Application that prints label (do not change)  http://192.168.58.7:5555/#/ after clicked this application will print a label  and you can choose printer  when clicked i need to print label  tTEST_NODE5555 is the one i need you to modify  to print label   Serial Number ||||||||||||||||| SKU ||||||||||||||||||||||","id":17333,"work":1,"_t":1605988499047}
