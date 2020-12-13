@@ -1,1 +1,1 @@
-{"name":"hjh837887 - Michael Gissi $2,224.00 USDI wasn't able to find this account on magento for either trasaction ID or customer name 你回复一下邮件通知一下其他人","id":17336,"work":"1","_t":1607457644191,"assigner":"Tony","end":1607457644191}
+{"name":"hjh837887 - Michael Gissi $2,224.00 USDI wasn't able to find this account on magento for either trasaction ID or customer name 你回复一下邮件通知一下其他人。  import this order into Magento, so the warehouse can process it.","id":17336,"work":"1","_t":1607457644191,"assigner":"Tony","end":1607457644191}
