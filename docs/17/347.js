@@ -1,0 +1,1 @@
+{"name":"Can you please take a look at the API doc to see if we can retrieve and display customer profile, sales order, RA, case from Netsuite in Zendesk?","id":17347,"work":1,"_t":1608436690126}
