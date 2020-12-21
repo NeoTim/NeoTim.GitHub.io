@@ -1,1 +1,1 @@
-{"name":"Can you please take a look at the API doc to see if we can retrieve and display customer profile, sales order, RA, case from Netsuite in Zendesk?","id":17347,"work":1,"_t":1608436690126}
+{"name":"你知道怎么注册域名的邮箱吗？费用大概多少呀？","id":17347,"work":1,"_t":1608574089349,"assigner":"Tony"}
