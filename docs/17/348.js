@@ -1,1 +1,1 @@
-{"name":"我給你cpanel login, 你幫我看看怎樣做 redirect, 我要 subdomain redirect or director redirect, claims to app.netsuite.com/app/login/secure/privatelogin.nl","id":17348,"work":1,"_t":1608579667848}
+{"name":"原本的 PRINT 會generate PDF 然後用戶可以 cancel, 如果選擇 Update with Batch Print Number 會執行一些database  call","id":17348,"work":"3","_t":1608848562217}
