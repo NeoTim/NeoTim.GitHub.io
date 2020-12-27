@@ -1,1 +1,1 @@
-{"name":"原本的 PRINT 會generate PDF 然後用戶可以 cancel, 如果選擇 Update with Batch Print Number 會執行一些database  call","id":17348,"work":"3","_t":1608848562217}
+{"name":"原本的 PRINT 會generate PDF 然後用戶可以 cancel, 如果選擇 Update with Batch Print Number 會執行一些database  call，這個改成 fulfillment.NetSyiteDocumentNumber，這改成 Item.FNSKU, barcode 也是依照 Item.FNSKU 產生，剩下的邏輯都寫在Excel裡面","id":17348,"work":"3","_t":1608848562217}
