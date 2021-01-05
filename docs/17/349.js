@@ -1,1 +1,1 @@
-{"name":"can you check if BT order 37981 can be brought over to Magento. I don't see any error message, but the order is still not brought over..","id":17349,"work":"1","_t":1609450253389,"assigner":"Steve"}
+{"name":"Can you please take a look at the API doc to see if we can retrieve and display customer profile, sales order, RA, case from Netsuite in Zendesk?","id":17349,"work":1,"_t":1609875645137,"assigner":"Jun"}
