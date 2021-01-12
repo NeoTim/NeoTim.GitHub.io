@@ -1,1 +1,1 @@
-{"name":"Add a pop-up window to Ngx-admin table item给他的表格Ngx-admin的每一行添加弹出窗口","id":17350,"work":"3","_t":1609897877740}
+{"name":"Add a pop-up window to Ngx-admin table item给他的表格Ngx-admin的每一行添加弹出窗口","id":17350,"work":"3","_t":1609897877740,"ok":true,"end":1610410953245}
