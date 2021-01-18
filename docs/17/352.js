@@ -1,1 +1,1 @@
-{"name":"需要知道能不用api 切换fulfillment 到Amazon. Update a fulfillment service  PUT /admin/api/2021-01/fulfillment_services/xxx.json{ \"fulfillment_service\": { \"id\": 755357713, \"name\": \"New Fulfillment Service Name\" } }","id":17352,"work":"2","_t":1610988790849}
+{"name":"需要知道能不用api 切换fulfillment 到Amazon. Update a fulfillment service  PUT /admin/api/2021-01/fulfillment_services/xxx.json{ \"fulfillment_service\": { \"id\": 755357713, \"name\": \"New Fulfillment Service Name\" } }","id":17352,"work":"2","_t":1610988790849,"ok":true,"end":1610988821914}
