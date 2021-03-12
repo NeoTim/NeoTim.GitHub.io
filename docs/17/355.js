@@ -1,0 +1,1 @@
+{"name":"phone call 右边增加总数，右边显示总数，图里只需要present和accpt，去掉reject。。order要同时显示数量和数值。tech要显示phone call和receiv和well call order。。title去掉1，放中间，download改成export放在右边","id":17355,"work":1,"_t":1615574039350}
